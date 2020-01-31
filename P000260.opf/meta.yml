@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོ་རྣལ་འབྱོར་བཞིའི་བཤད་པ་ངེས་དོན་ལྟ་བའི་མིག་ཅེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མི་ཕམ་འཇམ་དཔལ་དཔའ་བོ།
+  sku: LEK-MA-DK-08
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+web_metadata:
+  title:
+    en: The Eye of Definitive View:An Explanation of the Four Yogas of Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ་རྣལ་འབྱོར་བཞིའི་བཤད་པ་ངེས་དོན་ལྟ་བའི་མིག་ཅེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Mahamudra Series–  Book 8
+    bo: ལེགས་བཤད་གླིང་ཕྱག་རྒྱ་ཆེན་པོ།–  དེབ། ༨
+  author:
+    en: Mipham Jampal Pawo
+    bo: མི་ཕམ་འཇམ་དཔལ་དཔའ་བོ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-MA-DK-08
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-MA-DK-08.epub
+  description:
+    en: ''
+    bo: ''
