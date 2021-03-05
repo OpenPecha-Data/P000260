@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000260
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོ་རྣལ་འབྱོར་བཞིའི་བཤད་པ་ངེས་དོན་ལྟ་བའི་མིག་ཅེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མི་ཕམ་འཇམ་དཔལ་དཔའ་བོ།
-  sku: LEK-MA-DK-08
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
+  id: LEK-MA-DK-08
 web_metadata:
   title:
     en: The Eye of Definitive View:An Explanation of the Four Yogas of Mahamudra
